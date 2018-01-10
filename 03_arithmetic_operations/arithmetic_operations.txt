@@ -1,0 +1,20 @@
+Arithmetic Operations - learning goals
+- use basic Arithmetic Operations
+
+ 
+<scritpt>
+
+	addition: var a = b +1;
+	subtraction: var a = b -1;
+	multiplication: var a = b *c;
+	division: var a = b / c;
+	
+	//simple calculator
+	//from clesius to F
+	// ℃ x 9/5 + 32 = ℉
+	var C = 25;
+	var F = C * 9/5 +32
+	alert (f);	
+
+</script>
+
