@@ -1,2 +1,13 @@
 
 Web browser console - output information from javaScript code
+	- excite javaScript code, view the value of variables and
+		detect the source of an error.
+
+	var a = 1;
+	var b = 5;
+	
+	var c = a + b;
+	console.log(c);
+
+	- when developing, keep the console open at all times.
+
