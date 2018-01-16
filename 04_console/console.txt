@@ -1,2 +1,2 @@
 
-Web browser console 
+Web browser console - output information from javaScript code
